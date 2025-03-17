@@ -108,11 +108,8 @@
 <table>
 <tr>
   <td align="center"><a href="https://play.google.com/store/apps/details?id=com.codingshell.kubeprep"><img src="images/apps/kubeprep.png" width="200px;" height="300px;" alt="KubePrep"/><br /><b>KubePrep</b></a></td>
-
   <td align="center"><a href="https://play.google.com/store/apps/details?id=com.codingshell.linuxmaster"><img src="images/apps/linux_master.png" width="200px;" height="300px;" alt="Linux Master"/><br /><b>Linux Master</b></a></td>
-
-  <td align="center"><a href="https://play.google.com/store/apps/details?id=com.termux&hl=en_IN">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/TermuxLogo.png" width="200px;" height="300px;" alt="Termux"/><br /><b>Termux</b></a></td>
+  <td align="center"><a href="https://play.google.com/store/apps/details?id=com.termux&hl=en_IN"><img src="images/apps/termux.png" width="200px;" height="300px;" alt="Termux"/><br /><b>Termux</b></a></td>
 </tr>
 </table>
 
