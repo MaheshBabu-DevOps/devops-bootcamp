@@ -2063,7 +2063,7 @@ A list of services and their endpoints
 <summary>What is the role of network namespaces in OpenStack?</summary><br><b>
 </b></details>
 
-#### OpenStack Advanced - Horizon
+##### OpenStack Advanced - Horizon
 
 <details>
 <summary>Can you describe Horizon in detail?</summary><br><b>
