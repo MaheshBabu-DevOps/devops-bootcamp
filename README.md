@@ -4067,7 +4067,7 @@ If you are looking for a way to prepare for a certain exam this is the section f
 
 * [AZ-900](certificates/azure-fundamentals-az-900.md) (Latest update: 2021)
 
-#### Kubernetes
+#### Kubernetes (k8s)
 
 * [Certified Kubernetes Administrator (CKA)](topics/kubernetes/CKA.md) (Latest update: 2022)
 
