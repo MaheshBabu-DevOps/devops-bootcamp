@@ -1019,7 +1019,7 @@ Overall, exporters are a critical component of the Prometheus ecosystem, allowin
 
 <details>
 <summary>Which Prometheus best practices?</summary><br><b>
-Here are three of them:
+Here are three (3) of them:
 
     1. Label carefully: Careful and consistent labeling of metrics is crucial for effective querying and alerting. Labels should be clear, concise, and include all relevant information about the metric.
 
